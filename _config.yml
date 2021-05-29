@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "yuzhang"
+  name             : "Yu Zhang"
   avatar           : "profile.png"
   bio              : "Professor of Bioengineering and Electrical and Computer Engineering at Lehigh University"
-  location         : "PA, USA"
+  location         : "Pennsylvania, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yu-Zhang-511"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zhangyubrain"
   google_plus      :
   keybase          :
   instagram        :
