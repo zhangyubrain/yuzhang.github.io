@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yu Zhang"
   avatar           : "Yu Zhang.jpg"
-  bio              : "Professor of Bioengineering and Electrical and Computer Engineering at Lehigh University"
+  bio              : "Professor of Bioengineering and Electrical and Computer Engineering"
   location         : "Pennsylvania, USA"
-  employer         :
+  employer         : "Lehigh University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yu-Zhang-511"
+  email            : "yuzi20@lehigh.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Zhang-511"
   uri              :
   bitbucket        :
   codepen          :
